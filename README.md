@@ -32,13 +32,21 @@ bash
 npm start
 
 📁 Folder Structure
+
 bash
+
 Concisea_-Bitly-Clone/
+
 ├── client/           # Frontend files
+
 ├── server/           # Backend files
+
 ├── .env              # Environment variables
+
 ├── package.json      # Project metadata
+
 └── README.md         # Project info
+
 💡 Inspiration
 Inspired by the functionality of Bitly but built from scratch for learning and fun!
 
